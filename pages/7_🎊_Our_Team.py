@@ -17,7 +17,7 @@ team = {
 	"DATA ANALYSTS": ["Dorothea Paulssen","Linda Oraegbunam","Raul Catacora","Rohit Bhalode","Satvik Rajesh"],
 	"DATA SCIENTISTS": ["Ndong Henry Ndang","Arnav Kumar","Sindhusha Nannapaneni","Vivien Siew"],
     "LEAD ML ENGINEER": ["Thomas James"],
-	"ML ENGINEERS": ["Arnav Kumar","Dinesh Kumar M","Muhtasim Ibteda Shochcho","N Priyanka", "Sahar Nikoo", "Ayaluri Sri Kaushik"],
+	"ML ENGINEERS": ["Dinesh Kumar M","Muhtasim Ibteda Shochcho","N Priyanka", "Sahar Nikoo", "Ayaluri Sri Kaushik"],
     "DATA VISUALIZATION DEVELOPER": ["Maria Loureiro"],
     "MODEL DEPLOYMENT ENGINEERS": ["Lanz Vincent T. Vencer","Varshitha M"],
     }

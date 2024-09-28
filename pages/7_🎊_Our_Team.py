@@ -10,14 +10,14 @@ st.divider()
 team = {
     "SENIOR RESEARCH FELLOW": ["Oscar Daniel Murgueytio Panana"],
 	"RESEARCHERS": ["Paulo Nascimento", "Ahmed Daker", "Fauzia Khan Mohamed Abdulla", "Jannath Fatima Mohammed", "Shanawaz Anwar"],
-	"DATA COLLECTORS": ["Arnav Kumar", "Bartequa Blackmon", "Elias Dzobo", "Fathima Shanavas", "Friday Emmanuel James", "Hareesh Haridas", "Jayashree Subramanian",\
+	"DATA COLLECTORS": ["Bartequa Blackmon", "Elias Dzobo", "Fathima Shanavas", "Friday Emmanuel James", "Hareesh Haridas", "Jayashree Subramanian",\
         "Mansi Upadhyay","Peter Mahuthu","Poornachander Pothana","Rishab Bandodkar","Sahil Bhandari","Tejansh Sachdeva",\
         "Tinotenda Mangarai","Trishika Boyila"],
 	"LEAD DATA ANALYST": ["Ekeke Chidiebere Chiwuikem"],
 	"DATA ANALYSTS": ["Dorothea Paulssen","Linda Oraegbunam","Raul Catacora","Rohit Bhalode","Satvik Rajesh"],
-	"DATA SCIENTISTS": ["Ndong Henry Ndang","Sindhusha Nannapaneni","Vivien Siew"],
+	"DATA SCIENTISTS": ["Ndong Henry Ndang","Arnav Kumar","Sindhusha Nannapaneni","Vivien Siew"],
     "LEAD ML ENGINEER": ["Thomas James"],
-	"ML ENGINEERS": ["Aditya Sharma","Dinesh Kumar M","Muhtasim Ibteda Shochcho","N Priyanka", "Sahar Nikoo", "Ayaluri Sri Kaushik"],
+	"ML ENGINEERS": ["Arnav Kumar","Dinesh Kumar M","Muhtasim Ibteda Shochcho","N Priyanka", "Sahar Nikoo", "Ayaluri Sri Kaushik"],
     "DATA VISUALIZATION DEVELOPER": ["Maria Loureiro"],
     "MODEL DEPLOYMENT ENGINEERS": ["Lanz Vincent T. Vencer","Varshitha M"],
     }
